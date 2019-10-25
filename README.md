@@ -1,5 +1,10 @@
-It has interface discovery and all the general necessary items. I will update it if I find some more features.
+Check out Zabbix share and drop a rating/comment! :)
+https://share.zabbix.com/network_devices/fortigate/fortigate-snmpv3-general
 
+Features:
+- SNMPv3
+- Interface disovery
+- General health
  
 
 It's important to add your authentication details in a Macro!
