@@ -1,5 +1,7 @@
 Check out Zabbix share and drop a rating/comment! :)
+
 https://share.zabbix.com/network_devices/fortigate/fortigate-snmpv3-general
+
 
 Features:
 - SNMPv3
