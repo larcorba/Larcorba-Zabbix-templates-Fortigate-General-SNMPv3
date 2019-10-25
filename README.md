@@ -1,14 +1,22 @@
+Zabbix template
+======
+
+Intro
+------
 Check out Zabbix share and drop a rating/comment! :)
 
 https://share.zabbix.com/network_devices/fortigate/fortigate-snmpv3-general
 
 
-Features:
+Features
+------
 - SNMPv3
 - Interface disovery
 - General health
- 
 
+
+Macros
+------
 It's important to add your authentication details in a Macro!
 
 {$FGT_V3_USER} = Username
